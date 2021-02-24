@@ -3,4 +3,4 @@ Virtural Coin
 
 devloped by Hank01,
 
-Total number of Hashes 2
+Total number of Hashes 7
