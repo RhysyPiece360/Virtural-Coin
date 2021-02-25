@@ -1,7 +1,7 @@
 console.log("if you get nothing as a responce, that means you didnt get a coin,")
 function randomNumber() {
 
-    var randNum = Math.floor(Math.random() * (40)) + 1;
+    var randNum = Math.floor(Math.random() * (45)) + 1;
 
     return randNum;
 
@@ -45,7 +45,16 @@ function logRandomNumber() {
         console.log('You have a coin now Hash #7');
 
     }
-    
+    if(randNum == 15) { 
+
+        console.log('You have a coin now Hash #8');
+
+    }
+    if(randNum == 43) { 
+
+        console.log('You have a coin now Hash #9');
+
+    }
 
 }
 
